@@ -1,0 +1,3 @@
+[submodule "bouncing_ball"]
+  path = bouncing_ball
+  url = git://github.com/Slava-Inyu/bouncing-ball
