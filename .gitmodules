@@ -1,3 +1,6 @@
 [submodule "bouncing_ball"]
      path = bouncing_ball
      url = https://github.com/Slava-Inyu/bouncing-ball
+[submodule "bouncing-ball"]
+	path = bouncing-ball
+	url = https://github.com/Slava-Inyu/bouncing-ball
